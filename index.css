@@ -1,0 +1,24 @@
+body{
+    background-image: url(./images/pexels-codioful-6985260.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+    background-attachment: fixed;
+    width: 100%;
+}
+
+#about, #work{
+    margin-top: 100px;
+  
+}
+#dark{
+    background-color: rgba(0, 0, 0, 0.283);
+}
+html{
+    scroll-behavior: smooth;
+}
+
+#footeri:hover{
+    background-color: white;
+    color: black;
+}
